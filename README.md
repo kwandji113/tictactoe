@@ -7,7 +7,14 @@ My goal for this project is to create a fully functional tic tac toe game with a
 
 Specifications:
   Language: Python 
+  
+  
+  
   Editor: VS Code
+  
+  
+  
+  
   Extenal Libraries: 
 
 
